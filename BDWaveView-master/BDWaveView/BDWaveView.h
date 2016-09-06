@@ -4,7 +4,7 @@
 //
 //  Created by 黄海燕 on 16/9/6.
 //  Copyright © 2016年 huanghy. All rights reserved.
-//下载地址:https://github.com/huanghaiyan/BDWaveView
+//下载地址:https://github.com/huanghaiyan/BDWaveView-master
 
 #import <UIKit/UIKit.h>
 
